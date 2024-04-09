@@ -65,7 +65,8 @@ The script will perform the following steps:
 
 ## Results
 
-After training for 10 epochs, the model achieves a test accuracy of approximately 70-75% on the CIFAR-10 dataset. The training and validation accuracy curves are plotted to visualize the model's performance.
+After training for 10 epochs, the model achieves a test accuracy of approximately 70% on the CIFAR-10 dataset. The training and validation accuracy curves are plotted to visualize the model's performance. It is important to note that the performance can be further improved through hyperparameter tuning, such as adjusting the learning rate, batch size, or model architecture.However, for the purposes of this project, the focus was on implementing and understanding the main architecture. 
+
 
 ## Dataset
 
