@@ -26,7 +26,7 @@ This project demonstrates how to build a simple neural network for image classif
 
 ```
 Neural_Network_for_Image_Classification/
-├── building_a_simple_neural_network_for_image_classification.py
+├── Building_a_Simple_Neural_Network_for_Image_Classification.ipynb
 ├── model_architecture.png
 └── README.md
 ```
