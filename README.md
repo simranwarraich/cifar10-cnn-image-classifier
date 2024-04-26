@@ -27,7 +27,7 @@ This project demonstrates how to build a simple neural network for image classif
 ```
 Neural_Network_for_Image_Classification/
 ├── Building_a_Simple_Neural_Network_for_Image_Classification.ipynb
-├── model_architecture.png
+├── model_architecture.PNG
 └── README.md
 ```
 
@@ -35,7 +35,7 @@ Neural_Network_for_Image_Classification/
 
 The neural network architecture used in this project consists of the following layers:
 
-![Model Architecture](model_architecture.png)
+![Model Architecture](model_architecture.PNG)
 
 - Convolutional Layer (32 filters, 3x3 kernel, ReLU activation)
 - Max Pooling Layer (2x2 pool size)
